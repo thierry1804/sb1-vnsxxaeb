@@ -28,7 +28,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       <section className="bg-gradient-to-r from-purple-600 via-purple-700 to-orange-500 rounded-2xl p-8 text-white">
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Découvrez les histoires qui façonnent notre monde
+            Découvrir les histoires qui façonnent le monde
           </h1>
           <p className="text-xl text-purple-100 mb-8">
             Des conversations authentiques avec des experts, des créateurs et des visionnaires qui transforment notre société.
